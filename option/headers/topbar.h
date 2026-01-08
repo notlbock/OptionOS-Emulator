@@ -3,7 +3,7 @@
 
 #include <raylib.h>
 
-inline void createTopbar(){
+inline void CreateTopbar(){
   
 }
 
